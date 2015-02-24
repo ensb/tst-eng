@@ -18,7 +18,7 @@ for mot in liste:
         #  ?sens du point d'exclam
             print 'ok'
        # else:
-        if rep = .. sortie   
+        if rep = .. sortie    #  
         else:
             revoir.append(mot)
             print 'non: ', 
