@@ -1,0 +1,6 @@
+indiquer 
+   nombre d'article 
+      -juste au dessus de la question de choix de langue?
+   nombre de la question
+et par ex '..' ou une lettre pour sortir?
+       et que le fichier soit sauvé?
